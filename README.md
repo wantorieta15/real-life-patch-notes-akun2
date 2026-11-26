@@ -1,8 +1,8 @@
 # Real-Life Patch Notes: The Comedy Changelog — Akun 2
 
-[![Make Fun Bounty](https://img.shields.io/badge/make.fun-Real--Life%20Patch%20Notes-7c3aed)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
-[![Rank — wantorieta15](https://img.shields.io/badge/rank-wantorieta15-blue)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
-[![Reward $5 TOP 5](https://img.shields.io/badge/reward-%245%20TOP%205-green)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
+[![make.fun](https://make.fun/badge/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d.svg)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
+[![rank](https://make.fun/badge/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d/wantorieta15/real-life-patch-notes-akun2/rank.svg)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
+[![reward](https://make.fun/badge/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d/wantorieta15/real-life-patch-notes-akun2/reward.svg)](https://make.fun/bounty/u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d)
 
 Entri satu baris untuk bounty **Real-Life Patch Notes: The Comedy Changelog**
 ($5, TOP 5) — sebuah patch note software untuk bug kehidupan nyata:
